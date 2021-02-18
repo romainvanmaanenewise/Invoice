@@ -1,0 +1,7 @@
+Vraagen Mobx/mobx-state-tree
+
+1: Hoe gebruik je onPatch goed: ik snap de value die verandert maar er word ook een path gegeven en een op(dat lijkt op functions zoals replace and remove) is dit alleen voor development?
+2: In invoice.js heb ik actions en views staan aleen bij action .actions(self => en bij views .views((self) => ik begin fundimenteel de weg wijt te raken met haakjes
+3: in een model moeten we van te voren declaren wat voor type onze values worden. alleen krijgen vanaf de web kant over algemeen string binnen is hier een betere oplossing voor dan alleen converten?
+4: zijn er nog andere functies in mobx-state-tree behalve .model / .actions .views waar we veel gebruik van maken.
+  
